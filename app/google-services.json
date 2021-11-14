@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "791316853944",
+    "project_id": "ladm-u1-practica02-notas",
+    "storage_bucket": "ladm-u1-practica02-notas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791316853944:android:d851309afb0197a7b9304d",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u1_practica02_archivos_memoria_interna_externa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791316853944-fukirpr3egssle7keagrq1gefmj8m9vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP9rBIs9SCu3yDADnP3g8K3LFaz_VOsBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791316853944-fukirpr3egssle7keagrq1gefmj8m9vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
